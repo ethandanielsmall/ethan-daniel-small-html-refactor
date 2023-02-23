@@ -10,8 +10,8 @@ This Horiseon website is designed to promote the benefits of using Horiseon Solu
 
 ## Link to deployed application
 
-Link is required here
+Deployed application: (https://ethandanielsmall.github.io/horiseon-html-refactor/)
 
-## source code
+## Source code
 
 Source code: (https://github.com/coding-boot-camp/urban-octo-telegram)
