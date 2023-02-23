@@ -21,7 +21,7 @@ p {
     font-size: 16px;
 }
 
-/*  */
+/* style rules for all header elements */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -55,6 +55,7 @@ p {
     margin-left: 25px;
 }
 
+/* style rules for hero aka the main background image */
 .hero {
     height: 800px;
     width: 100%;
@@ -64,6 +65,7 @@ p {
     background-position: center;
 }
 
+/* style rules for float */
 .float-left {
     float: left;
     margin-right: 25px;
@@ -74,12 +76,14 @@ p {
     margin-left: 25px;
 }
 
+/* style rules for content elements */
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
+/* style rules for search engine (articles) elements */
 .search-engine-optimization, .online-reputation-management, .social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
@@ -98,6 +102,7 @@ p {
     font-size: 36px;
 }
 
+/* style rules for benefits (aside) elements */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -125,6 +130,7 @@ p {
     max-width: 150px;
 }
 
+/* style rules for footer elements */
 .footer {
     padding: 30px;
     clear: both;
